@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/RAPH/Desktop/ESGI - 3IABD/Projet_C/Start.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+map.h
+C:/Users/RAPH/Desktop/ESGI - 3IABD/Projet_C/map.h
+everyMonster.h
+C:/Users/RAPH/Desktop/ESGI - 3IABD/Projet_C/everyMonster.h
+deplacementJoueur.h
+C:/Users/RAPH/Desktop/ESGI - 3IABD/Projet_C/deplacementJoueur.h
+
+C:/Users/RAPH/Desktop/ESGI - 3IABD/Projet_C/deplacementJoueur.h
+everyMonster.h
+C:/Users/RAPH/Desktop/ESGI - 3IABD/Projet_C/everyMonster.h
+
+C:/Users/RAPH/Desktop/ESGI - 3IABD/Projet_C/everyMonster.h
+
+C:/Users/RAPH/Desktop/ESGI - 3IABD/Projet_C/map.h
+

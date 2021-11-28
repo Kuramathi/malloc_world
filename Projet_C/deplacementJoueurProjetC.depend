@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1638041067 source:c:\users\chepj\desktop\projet piscine de c\deplacementjoueurprojetc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"map.h"
+
+1637586204 c:\users\chepj\desktop\projet piscine de c\deplacementjoueurprojetc\map.h
+
+1638017008 source:c:\users\chepj\desktop\projet piscine de c\deplacementjoueurprojetc\inventory.c
+	"inventory.h"
+	"farm.h"
+	"map.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1638017816 c:\users\chepj\desktop\projet piscine de c\deplacementjoueurprojetc\inventory.h
+
+1637589294 c:\users\chepj\desktop\projet piscine de c\deplacementjoueurprojetc\farm.h
+
+1638014220 source:c:\users\chepj\desktop\projet piscine de c\deplacementjoueurprojetc\map.c
+	"map.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1638041013 source:c:\users\chepj\desktop\projet piscine de c\deplacementjoueurprojetc\farm.c
+	"farm.h"
+	"map.h"
+	"inventory.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1638041013 source:c:\users\chepj\desktop\projet_c\farm.c
+	"farm.h"
+	"map.h"
+	"inventory.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1637589294 c:\users\chepj\desktop\projet_c\farm.h
+
+1637586204 c:\users\chepj\desktop\projet_c\map.h
+
+1638017816 c:\users\chepj\desktop\projet_c\inventory.h
+
+1638017008 source:c:\users\chepj\desktop\projet_c\inventory.c
+	"inventory.h"
+	"farm.h"
+	"map.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1638041067 source:c:\users\chepj\desktop\projet_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"map.h"
+
+1638014220 source:c:\users\chepj\desktop\projet_c\map.c
+	"map.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
